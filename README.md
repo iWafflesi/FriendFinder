@@ -6,4 +6,5 @@ This is a full-stack "compatibility-based" app that will take in results from a 
 You will be asked 10 questions on a scale of 1-5, 5 being most relevant, 1 being least. Once you finish the survey submit and see your best match!
 
 ***Technologies Utilized***
+
 Nodejs Expressjs
